@@ -7,7 +7,7 @@ def main():
 
     st.header("1. Respect and Inclusivity")
     st.markdown("""
-    - Treat all community members with respect, kindness, and empathy, regardless of their background, gender identity and expression, sexual orientation, disability, neurodivergence, personal appearance, race, ethnicity, age, religion, nationality, or other similar characteristics.
+    - Treat all community members with respect, kindness, and empathy, regardless of their background, gender identity and expression, sexual orientation, disability, personal appearance, race, ethnicity, age, religion, nationality, or other similar characteristics.
     - Engage in constructive and respectful discussions, focusing on the topic at hand while being mindful of diverse perspectives.
     - Avoid discriminatory or offensive language, including but not limited to racism, homophobia, hate speech, and derogatory comments.
     """)
@@ -23,7 +23,7 @@ def main():
     st.markdown("""
     - Engage in discussions that are relevant to the holistic healing and well-being focus of our community.
     - Share resources, information, and personal experiences that contribute to the understanding and practice of holistic healing.
-    - Avoid discussing unrelated topics that may be divisive or harmful, such as illegal activities, politics, religion, relationships, mental health, medical conditions, medicine, homeopathic remedies, etc.
+    - Avoid discussing unrelated topics that may be divisive or harmful, such as illegal activities, politics, religion.
     """)
 
     st.header("4. Collaborative Learning and Support")
