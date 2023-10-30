@@ -57,7 +57,7 @@ def main():
 
     st.markdown("""Going against any codes mentioned here will result in a warning, if any member receives 3 such warnings, they will cease to be part of this commmunity and permanently banned from the server""")
 
-    st.header("Terms of Conditions")
+    st.header("Disclaimer")
     st.warning("""
     *Warning:* The information shared in this community is for educational and informational purposes only. It is not intended to replace professional medical advice, diagnosis, or treatment. Each individual is responsible for their own health and well-being.
     
